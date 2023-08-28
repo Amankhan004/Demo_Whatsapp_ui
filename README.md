@@ -1,16 +1,10 @@
-# list_tile
+**WhatsApp Demo UI**
+A Flutter project that simulates a basic WhatsApp-like user interface using custom ListTile widgets.
 
-A new Flutter project.
+**Description**
+WhatsApp Demo UI is a Flutter project that demonstrates a simple user interface resembling the popular messaging app WhatsApp. It utilizes custom ListTile widgets to create chat-like entries with user avatars, names, messages, and timestamps.
 
-## Getting Started
+**Usage**
+Once the app is running, you'll see a simple interface with mock chat entries. Each entry displays the sender's name, last message, and timestamp. The UI is built using Flutter's CustomListTile widget.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Feel free to modify the ListClass and CustomListTile classes in the code to add more chat entries or customize the appearance as you see fit. Experiment with different colors, avatars, and text styles to create your own unique UI.
